@@ -4,4 +4,4 @@ It was built at 2003 for my diploma thesis on Grid scheduling algorithms.
 
 It is really outdated. I think it can only serve as an educational tool on C programming.
 
-If you want to experiment with a more sophisticated grid system simulator,you may like [gemu](https://github.com/barelas/gemu).
+If you want to experiment with a more sophisticated grid system simulator, you may like [gemu](https://github.com/barelas/gemu).
